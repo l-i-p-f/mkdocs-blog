@@ -6,12 +6,19 @@ nav:
   - 机器学习:
     - A guide for academic researchers: ml/A_guide_for_academic_researchers.md
   - 知识图谱:
+    - 【知识建模】领域知识图谱构建: kg/领域知识图谱构建.md
+    - 【知识建模】Protege: kg/Protege.md
+    - 【知识存储】图数据库比较: kg/graphdb.md
     - 【知识推理】规则语言和规则引擎: kg/规则语言和规则引擎.md
     - 【RDF】RDF Mapping: kg/RDFMapping.md
+    - 【RDF】D2RQ: kg/D2RQ.md
     - 【RDF】RDF映射工具Ontop: kg/ontop.md
-    - 【知识存储】图数据库比较: kg/graphdb.md
+    - 【Jena】Apache Jena与Fuseki: kg/Jena_and_Fuseki.md
+    - 【Jena】Fuseki推理实践: kg/Fuseki推理实践.md
+    - 【Jena】Jena推理实践: kg/Jena推理实践.md
     - 【Jena】Jena全文检索: kg/Jena全文检索.md
-  - About: test.md
+  - code:
+    - 【git】合并两个代码仓的commit记录: code/git合并两个代码仓.md
 
 # Extensions
 markdown_extensions:
